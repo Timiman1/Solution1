@@ -24,10 +24,6 @@ namespace TestConsoleApp
             Console.WriteLine(test);
         }
 
-        static void Exempel2()
-        {
-
-        }
         static bool TullInspektör(Tullgods godset)
         {
             return (godset.Type == "knark");
